@@ -1,9 +1,0 @@
-testing line update
-status 235677
-:wq
-`
-приветики, я новая строка
-Add line
-а я твой первый конфликт
-ты меня не запулишь
-new branch line
